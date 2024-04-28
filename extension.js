@@ -1,5 +1,5 @@
 const vscode = require('vscode');
-const {xmlToJsonCommand } = require('./commands/xmlToJsonCommand.js')
+const { xmlToJsonCommand } = require('./commands/xmlToJsonCommand.js')
 
 /**
  * @param {vscode.ExtensionContext} context

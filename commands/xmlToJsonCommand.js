@@ -30,4 +30,4 @@ async function xmlToJsonCommand() {
 }
 
 
-module.exports = { parseXml, xmlToJsonCommand };
+module.exports = { xmlToJsonCommand };
